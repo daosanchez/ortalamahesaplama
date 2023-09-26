@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\bin\Debug\form6.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\bin\Debug\form6.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\bin\Debug\form6.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form6\form6\obj\Debug\form6.pdb
